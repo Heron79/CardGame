@@ -19,7 +19,10 @@ public struct Card
     }
 }
 
-public class Ca
+public static class CardManager
+{
+    public static List<Card> AllCards = new List<Card>();
+}
 public class CardManagerScr : MonoBehaviour
 {
 
