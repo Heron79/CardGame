@@ -53,9 +53,7 @@ public class CardManagerScr : MonoBehaviour
         CardManager.AllCards.Add(new Card("Andrew","good gue", "Sprites/Artwork/Edwin", 3,5,3));
         CardManager.AllCards.Add(new Card("Ruslana", "good gue", "Sprites/Artwork/Tirion", 1, 5, 2));
         CardManager.AllCards.Add(new Card("Zuza", "good gue", "Sprites/Artwork/Edwin", 2, 3, 1));
-        CardManager.AllCards.Add(new Card("Zuza", "good gue", "Sprites/Artwork/Edwin", 2, 3, 1));
-        CardManager.AllCards.Add(new Card("Zuza", "good gue", "Sprites/Artwork/Edwin", 2, 3, 1));
-        CardManager.AllCards.Add(new Card("Zuza", "good gue", "Sprites/Artwork/Edwin", 2, 3, 1));
+        CardManager.AllCards.Add(new Card("Нестайко", "good gue", "Sprites/Artwork/Vsevolod", 5, 3, 4));
 
     }
 
